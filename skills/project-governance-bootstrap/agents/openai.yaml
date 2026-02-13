@@ -1,5 +1,0 @@
-﻿version: 1
-display_name: Project Governance Bootstrap
-short_description: Strict templates for cross-project docs and deterministic MR/PR review standards.
-default_prompt: Bootstrap strict governance docs and review standards for this repository using fixed structure and evidence-only filling.
-
