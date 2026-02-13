@@ -1,4 +1,4 @@
-﻿# ADR目录规则
+﻿# 架构决策记录目录规则（ADR）
 
 ## 命名
 - 格式：`NNNN-title.md`
@@ -12,4 +12,5 @@
 
 ## 审核约束
 - 触发条件满足但无 ADR，`principle_conflict=fail`。
+
 

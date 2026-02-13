@@ -1,7 +1,7 @@
-﻿# Scanning and Filling Rules（固定规则引擎说明）
+﻿# 扫描与填充规则（固定规则引擎说明）
 
 ## 1. 文件分类映射
-| category | 匹配特征 |
+| 分类 | 匹配特征 |
 |---|---|
 | requirement | `docs/requirements/` |
 | feature | `docs/features/` |
@@ -17,7 +17,7 @@
 3. 流程交互变化 -> 更新 sequence-diagrams
 4. 架构约束变化 -> 更新 system-architecture + ADR
 
-## 3. DocDelta固定字段
+## 3. DocDelta 固定字段
 - requirements_delta
 - feature_delta
 - task_delta
@@ -25,6 +25,5 @@
 - architecture_delta
 - open_questions
 
-## 4. UNKNOWN策略
+## 4. UNKNOWN 策略
 - 证据不足时，不推测，统一输出 `UNKNOWN`。
-

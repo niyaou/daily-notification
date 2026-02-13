@@ -1,4 +1,4 @@
-﻿# Review Policy（严格模板模式）
+﻿# 审核规范（严格模板模式）
 
 ## 1. 审核范围
 - 强制单位：PR/MR。
@@ -43,7 +43,7 @@
 2. PR/MR汇总
 
 ## 8. 输出字段（固定）
-| field | definition |
+| 字段(field) | 定义(definition) |
 |---|---|
 | record_id | 唯一ID |
 | scope | requirement/feature/module/code/architecture |
@@ -62,4 +62,3 @@
 - `docs/process/scanning-and-filling-rules.md`
 - `docs/templates/review-report-template.md`
 - `docs/templates/diff-doc-summarization-template.md`
-
